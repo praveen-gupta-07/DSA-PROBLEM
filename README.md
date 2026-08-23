@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0540-single-element-in-a-sorted-array) |
 | [0665-non-decreasing-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0665-non-decreasing-array) |
 | [0704-binary-search](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0713-subarray-product-less-than-k) |
 | [0896-monotonic-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0896-monotonic-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1539-kth-missing-positive-number) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0303-range-sum-query-immutable) |
+| [0713-subarray-product-less-than-k](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0035-search-insert-position) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0713-subarray-product-less-than-k](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
