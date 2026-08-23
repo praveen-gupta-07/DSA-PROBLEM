@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0152-maximum-product-subarray) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0088-merge-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0189-rotate-array) |
@@ -212,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0050-powx-n) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
