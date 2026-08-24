@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0896-monotonic-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1313-decompress-run-length-encoded-list](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1313-decompress-run-length-encoded-list) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1539-kth-missing-positive-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1672-richest-customer-wealth) |
