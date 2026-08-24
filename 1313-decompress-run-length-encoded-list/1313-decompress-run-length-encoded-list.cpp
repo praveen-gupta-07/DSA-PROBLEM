@@ -8,11 +8,8 @@ public:
 
         while(j < n) {
 
-            int freq = nums[j];
-            int value = nums[j + 1];
-
-            for(int i = 0; i < freq; i++) {
-                temp.push_back(value);
+            for(int i = 0; i < nums[j]; i++) {
+                temp.push_back(nums[j + 1]);
             }
 
             j = j + 2;
