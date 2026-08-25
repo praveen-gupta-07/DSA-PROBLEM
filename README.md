@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1021-remove-outermost-parentheses) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1903-largest-odd-number-in-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1903-largest-odd-number-in-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Array
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1920-build-array-from-permutation](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Design
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0067-add-binary) |
 | [1920-build-array-from-permutation](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Recursion
 |  |
 | ------- |
