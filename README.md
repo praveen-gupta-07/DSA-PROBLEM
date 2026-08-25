@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0713-subarray-product-less-than-k) |
 | [0896-monotonic-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0896-monotonic-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1004-max-consecutive-ones-iii) |
+| [1051-height-checker](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1313-decompress-run-length-encoded-list](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1313-decompress-run-length-encoded-list) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1051-height-checker](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1051-height-checker) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
@@ -247,8 +249,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1051-height-checker) |
 ## Matrix
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1672-richest-customer-wealth) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
