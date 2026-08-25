@@ -262,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1051-height-checker) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
