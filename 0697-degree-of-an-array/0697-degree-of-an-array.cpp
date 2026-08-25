@@ -4,38 +4,33 @@ public:
 
         int n = nums.size();
 
-        vector<int> temp(50001, 0);
+        vector<int> freq(50001, 0);
+        vector<int> left(50001, -1);
+
+        int degree = 0;
 
         for(int i = 0; i < n; i++) {
-            temp[nums[i]]++;
-        }
 
-        int degree = *max_element(temp.begin(), temp.end());
+            freq[nums[i]]++;
+
+            if(left[nums[i]] == -1) {
+                left[nums[i]] = i;
+            }
+
+            degree = max(degree, freq[nums[i]]);
+        }
 
         int ans = n;
 
-        for(int x = 0; x < 50001; x++) {
+  
+        for(int i = 0; i < n; i++) {
 
-            if(temp[x] == degree) {
+            if(freq[nums[i]] == degree) {
 
-                int left = 0;
-                int right = 0;
+                int right = i;
+                int length = right - left[nums[i]] + 1;
 
-                for(int i = 0; i < n; i++) {
-                    if(nums[i] == x) {
-                        left = i;
-                        break;
-                    }
-                }
-
-                for(int i = n - 1; i >= 0; i--) {
-                    if(nums[i] == x) {
-                        right = i;
-                        break;
-                    }
-                }
-
-                ans = min(ans, right - left + 1);
+                ans = min(ans, length);
             }
         }
 
