@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1390-four-divisors](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1390-four-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1510-stone-game-iv) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1313-decompress-run-length-encoded-list](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1313-decompress-run-length-encoded-list) |
+| [1390-four-divisors](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1390-four-divisors) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1539-kth-missing-positive-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1672-richest-customer-wealth) |
@@ -197,10 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prime Factorization
 |  |
 | ------- |
+| [1390-four-divisors](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1390-four-divisors) |
 | [1952-three-divisors](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1952-three-divisors) |
 ## Sieve Theory
 |  |
 | ------- |
+| [1390-four-divisors](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1390-four-divisors) |
 | [1952-three-divisors](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1952-three-divisors) |
 ## Euclidean Algorithm
 |  |
