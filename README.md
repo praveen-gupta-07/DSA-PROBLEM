@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1313-decompress-run-length-encoded-list](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1313-decompress-run-length-encoded-list) |
 | [1390-four-divisors](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1390-four-divisors) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1539-kth-missing-positive-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1021-remove-outermost-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -303,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2396-strictly-palindromic-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
