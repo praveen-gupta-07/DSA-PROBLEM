@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1390-four-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1510-stone-game-iv) |
+| [1641-count-sorted-vowel-strings](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1641-count-sorted-vowel-strings) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1903-largest-odd-number-in-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1952-three-divisors) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1510-stone-game-iv) |
+| [1641-count-sorted-vowel-strings](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1641-count-sorted-vowel-strings) |
 ## String Matching
 |  |
 | ------- |
@@ -291,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0069-sqrtx) |
+## Combinatorics
+|  |
+| ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1641-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
