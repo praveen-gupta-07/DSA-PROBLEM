@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0697-degree-of-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0697-degree-of-an-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0151-reverse-words-in-a-string) |
+| [0389-find-the-difference](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1021-remove-outermost-parentheses) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0414-third-maximum-number) |
 | [1051-height-checker](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1051-height-checker) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1486-xor-operation-in-an-array) |
 ## Simulation
 |  |
