@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0303-range-sum-query-immutable) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1838-frequency-of-the-most-frequent-element) |
