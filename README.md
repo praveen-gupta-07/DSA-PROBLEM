@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0697-degree-of-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0697-degree-of-an-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0414-third-maximum-number) |
 | [1051-height-checker](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1051-height-checker) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -297,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0347-top-k-frequent-elements) |
 | [1051-height-checker](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1051-height-checker) |
 ## Database
 |  |
@@ -322,4 +327,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0202-happy-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
