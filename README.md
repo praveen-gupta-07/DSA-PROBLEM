@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2769-find-the-maximum-achievable-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2769-find-the-maximum-achievable-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3895-count-digit-appearances](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3895-count-digit-appearances) |
 ## String
