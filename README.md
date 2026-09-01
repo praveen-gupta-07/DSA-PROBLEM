@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0697-degree-of-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0697-degree-of-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1748-sum-of-unique-elements) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3731-find-missing-elements) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1539-kth-missing-positive-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1672-richest-customer-wealth) |
+| [1748-sum-of-unique-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0347-top-k-frequent-elements) |
 | [1051-height-checker](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1051-height-checker) |
+| [1748-sum-of-unique-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1748-sum-of-unique-elements) |
 ## Database
 |  |
 | ------- |
