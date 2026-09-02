@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1313-decompress-run-length-encoded-list](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1313-decompress-run-length-encoded-list) |
 | [1390-four-divisors](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1390-four-divisors) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1539-kth-missing-positive-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1539-kth-missing-positive-number) |
