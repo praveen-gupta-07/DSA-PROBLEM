@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3151-special-array-i](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3151-special-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3731-find-missing-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
