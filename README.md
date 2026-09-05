@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0349-intersection-of-two-arrays) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0540-single-element-in-a-sorted-array) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2396-strictly-palindromic-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2396-strictly-palindromic-number) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1486-xor-operation-in-an-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0287-find-the-duplicate-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -414,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0347-top-k-frequent-elements) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
