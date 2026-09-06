@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3498-reverse-degree-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3894-traffic-signal-color) |
 ## Array
 |  |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3894-traffic-signal-color](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3894-traffic-signal-color) |
 | [3959-check-good-integer](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3959-check-good-integer) |
