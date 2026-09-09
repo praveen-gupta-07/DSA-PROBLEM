@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3731-find-missing-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3498-reverse-degree-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3884-first-matching-character-from-both-ends](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3894-traffic-signal-color) |
 ## Array
