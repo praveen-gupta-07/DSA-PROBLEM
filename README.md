@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3783-mirror-distance-of-an-integer](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3783-mirror-distance-of-an-integer) |
+| [3870-count-commas-in-range](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3870-count-commas-in-range) |
 | [3894-traffic-signal-color](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3945-digit-frequency-score) |
