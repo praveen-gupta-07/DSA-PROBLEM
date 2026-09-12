@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0326-power-of-three) |
 ## Quicksort
 |  |
 | ------- |
