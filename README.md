@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3898-find-the-degree-of-each-vertex) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Design
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0011-container-with-most-water) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1903-largest-odd-number-in-string) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Sliding Window
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2785-sort-vowels-in-a-string) |
 | [3731-find-missing-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3731-find-missing-elements) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Two Pointers
 |  |
 | ------- |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0922-sort-array-by-parity-ii) |
 | [2396-strictly-palindromic-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2396-strictly-palindromic-number) |
 | [3884-first-matching-character-from-both-ends](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3884-first-matching-character-from-both-ends) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Dynamic Programming
 |  |
 | ------- |
