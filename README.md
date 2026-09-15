@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1313-decompress-run-length-encoded-list](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1313-decompress-run-length-encoded-list) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1390-four-divisors](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1051-height-checker) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0922-sort-array-by-parity-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1768-merge-strings-alternately) |
 | [2109-adding-spaces-to-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2109-adding-spaces-to-a-string) |
 | [2396-strictly-palindromic-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2396-strictly-palindromic-number) |
