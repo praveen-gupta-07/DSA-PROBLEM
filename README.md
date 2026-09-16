@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1390-four-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1510-stone-game-iv) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0389-find-the-difference) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1486-xor-operation-in-an-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Simulation
