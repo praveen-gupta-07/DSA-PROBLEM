@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0697-degree-of-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1748-sum-of-unique-elements) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1492-the-kth-factor-of-n) |
 | [1510-stone-game-iv](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1510-stone-game-iv) |
+| [1512-number-of-good-pairs](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1641-count-sorted-vowel-strings](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1641-count-sorted-vowel-strings) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1512-number-of-good-pairs](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1672-richest-customer-wealth) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0347-top-k-frequent-elements) |
 | [1051-height-checker](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1051-height-checker) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1748-sum-of-unique-elements) |
 ## Database
 |  |
