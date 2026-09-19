@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0343-integer-break) |
 | [0507-perfect-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0507-perfect-number) |
+| [0788-rotated-digits](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0152-maximum-product-subarray) |
 | [0343-integer-break](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0343-integer-break) |
+| [0788-rotated-digits](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1510-stone-game-iv) |
 | [1641-count-sorted-vowel-strings](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1641-count-sorted-vowel-strings) |
