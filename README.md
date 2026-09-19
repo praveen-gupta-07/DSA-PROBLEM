@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1492-the-kth-factor-of-n) |
 | [1510-stone-game-iv](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1641-count-sorted-vowel-strings](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1641-count-sorted-vowel-strings) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1822-sign-of-the-product-of-an-array) |
