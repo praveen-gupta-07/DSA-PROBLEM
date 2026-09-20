@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0151-reverse-words-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0796-rotate-string) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1051-height-checker) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1512-number-of-good-pairs) |
@@ -503,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
