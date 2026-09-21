@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0343-integer-break) |
 | [0507-perfect-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0628-maximum-product-of-three-numbers) |
 | [0665-non-decreasing-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0665-non-decreasing-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0697-degree-of-an-array) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0628-maximum-product-of-three-numbers) |
 | [0922-sort-array-by-parity-ii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1346-check-if-n-and-its-double-exist) |
