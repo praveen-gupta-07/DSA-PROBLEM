@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0628-maximum-product-of-three-numbers) |
 | [0665-non-decreasing-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0665-non-decreasing-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0713-subarray-product-less-than-k) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2011-final-value-of-variable-after-performing-operations) |
