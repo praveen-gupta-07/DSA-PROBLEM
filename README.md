@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1920-build-array-from-permutation) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0561-array-partition) |
+| [1833-maximum-ice-cream-bars](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1903-largest-odd-number-in-string) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/4014-minimum-total-price-after-applying-discounts) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1833-maximum-ice-cream-bars](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1748-sum-of-unique-elements) |
+| [1833-maximum-ice-cream-bars](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1833-maximum-ice-cream-bars) |
 ## Database
 |  |
 | ------- |
