@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0343-integer-break) |
 | [0788-rotated-digits](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1025-divisor-game) |
 | [1510-stone-game-iv](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1510-stone-game-iv) |
 | [1641-count-sorted-vowel-strings](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1641-count-sorted-vowel-strings) |
 ## String Matching
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1025-divisor-game) |
 | [1510-stone-game-iv](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1510-stone-game-iv) |
 ## Nim Game
 |  |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2396-strictly-palindromic-number) |
 ## Monotonic Stack
 |  |
@@ -557,4 +561,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0387-first-unique-character-in-a-string) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
