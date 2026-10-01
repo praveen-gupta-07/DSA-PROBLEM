@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0735-asteroid-collision) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0896-monotonic-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0922-sort-array-by-parity-ii) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0628-maximum-product-of-three-numbers) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0922-sort-array-by-parity-ii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1346-check-if-n-and-its-double-exist) |
