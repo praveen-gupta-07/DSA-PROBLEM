@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0697-degree-of-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0697-degree-of-an-array) |
+| [0771-jewels-and-stones](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
