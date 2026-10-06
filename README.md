@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0735-asteroid-collision) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0832-flipping-an-image](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0896-monotonic-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0922-sort-array-by-parity-ii) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0832-flipping-an-image](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0832-flipping-an-image) |
 | [0922-sort-array-by-parity-ii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1486-xor-operation-in-an-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0735-asteroid-collision) |
+| [0832-flipping-an-image](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2109-adding-spaces-to-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2109-adding-spaces-to-a-string) |
@@ -506,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1672-richest-customer-wealth) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3898-find-the-degree-of-each-vertex) |
