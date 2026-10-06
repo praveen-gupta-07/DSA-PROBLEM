@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1108-defanging-an-ip-address) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0561-array-partition) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1833-maximum-ice-cream-bars](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1903-largest-odd-number-in-string) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0735-asteroid-collision) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1021-remove-outermost-parentheses) |
 ## Number Theory
 |  |
