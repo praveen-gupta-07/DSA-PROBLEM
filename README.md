@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0697-degree-of-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0771-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0791-custom-sort-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1207-unique-number-of-occurrences) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0771-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1021-remove-outermost-parentheses) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0791-custom-sort-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0791-custom-sort-string) |
 | [0922-sort-array-by-parity-ii](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1346-check-if-n-and-its-double-exist) |
