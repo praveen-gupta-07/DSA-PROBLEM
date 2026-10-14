@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-reverse-string-prefix](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3894-traffic-signal-color) |
+| [3931-check-adjacent-digit-differences](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3931-check-adjacent-digit-differences) |
 ## Array
 |  |
 | ------- |
