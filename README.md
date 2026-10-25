@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2109-adding-spaces-to-a-string) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1903-largest-odd-number-in-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3745-maximize-expression-of-three-elements) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/4014-minimum-total-price-after-applying-discounts) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2785-sort-vowels-in-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2785-sort-vowels-in-a-string) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -529,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2109-adding-spaces-to-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2109-adding-spaces-to-a-string) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3498-reverse-degree-of-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3894-traffic-signal-color](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3894-traffic-signal-color) |
@@ -608,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1046-last-stone-weight) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Bucket Sort
 |  |
 | ------- |
