@@ -6,7 +6,6 @@ public:
             mp[s[i]]++;
         }
         int x = mp.begin()->second;
-
         for(auto it : mp){
             if(it.second != x){
                 return false;
