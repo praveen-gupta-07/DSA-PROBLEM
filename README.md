@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0120-triangle) |
+| [0136-single-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0215-kth-largest-element-in-an-array) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0342-power-of-four) |
