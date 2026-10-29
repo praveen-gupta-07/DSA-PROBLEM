@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3917-count-indices-with-opposite-parity](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3917-count-indices-with-opposite-parity) |
+| [3978-unique-middle-element](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3978-unique-middle-element) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4020-elevator-requests-i](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/4020-elevator-requests-i) |
 ## Design
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1833-maximum-ice-cream-bars) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3978-unique-middle-element](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3978-unique-middle-element) |
 ## Database
 |  |
 | ------- |
