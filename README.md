@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3898-find-the-degree-of-each-vertex](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3917-count-indices-with-opposite-parity](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3917-count-indices-with-opposite-parity) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/4014-minimum-total-price-after-applying-discounts) |
+| [4020-elevator-requests-i](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/4020-elevator-requests-i) |
 ## Design
 |  |
 | ------- |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3894-traffic-signal-color](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3894-traffic-signal-color) |
 | [3959-check-good-integer](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3959-check-good-integer) |
+| [4020-elevator-requests-i](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/4020-elevator-requests-i) |
 ## Recursion
 |  |
 | ------- |
