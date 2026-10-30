@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2109-adding-spaces-to-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2109-adding-spaces-to-a-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2785-sort-vowels-in-a-string) |
 | [3110-score-of-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3110-score-of-a-string) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2109-adding-spaces-to-a-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0796-rotate-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Stack
 |  |
 | ------- |
