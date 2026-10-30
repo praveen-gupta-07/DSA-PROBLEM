@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0561-array-partition) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0942-di-string-match) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1903-largest-odd-number-in-string) |
