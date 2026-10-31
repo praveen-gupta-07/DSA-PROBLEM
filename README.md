@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2965-find-missing-and-repeated-values](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2965-find-missing-and-repeated-values) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3668-restore-finishing-order](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2965-find-missing-and-repeated-values) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3151-special-array-i](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3151-special-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1833-maximum-ice-cream-bars) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3978-unique-middle-element](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3978-unique-middle-element) |
 ## Database
 |  |
