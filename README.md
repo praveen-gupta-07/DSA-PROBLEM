@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3151-special-array-i](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3151-special-array-i) |
