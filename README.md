@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3151-special-array-i](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3151-special-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2109-adding-spaces-to-a-string) |
 | [2396-strictly-palindromic-number](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2396-strictly-palindromic-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3884-first-matching-character-from-both-ends) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2109-adding-spaces-to-a-string) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
