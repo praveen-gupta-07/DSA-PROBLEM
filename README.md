@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2574-left-and-right-sum-differences) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2678-number-of-senior-citizens](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2678-number-of-senior-citizens) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2965-find-missing-and-repeated-values) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1903-largest-odd-number-in-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3745-maximize-expression-of-three-elements) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/4014-minimum-total-price-after-applying-discounts) |
