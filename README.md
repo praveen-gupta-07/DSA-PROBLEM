@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2109-adding-spaces-to-a-string) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1672-richest-customer-wealth) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2965-find-missing-and-repeated-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Counting Sort
