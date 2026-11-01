@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3945-digit-frequency-score) |
 | [3959-check-good-integer](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3959-check-good-integer) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## String
 |  |
 | ------- |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3898-find-the-degree-of-each-vertex](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3917-count-indices-with-opposite-parity](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3917-count-indices-with-opposite-parity) |
 | [3978-unique-middle-element](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3978-unique-middle-element) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4020-elevator-requests-i](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/4020-elevator-requests-i) |
 ## Design
