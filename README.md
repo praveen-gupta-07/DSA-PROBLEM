@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2678-number-of-senior-citizens) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2785-sort-vowels-in-a-string) |
+| [2810-faulty-keyboard](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2810-faulty-keyboard) |
 | [3110-score-of-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2109-adding-spaces-to-a-string) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2810-faulty-keyboard](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3498-reverse-degree-of-a-string) |
