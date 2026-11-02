@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2109-adding-spaces-to-a-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2678-number-of-senior-citizens) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2785-sort-vowels-in-a-string) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2574-left-and-right-sum-differences) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2656-maximum-sum-with-exactly-k-elements) |
