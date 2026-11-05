@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1528-shuffle-string) |
+| [1678-goal-parser-interpretation](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1768-merge-strings-alternately) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1812-determine-color-of-a-chessboard-square) |
