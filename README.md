@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1025-divisor-game) |
+| [1103-distribute-candies-to-people](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1103-distribute-candies-to-people) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/0832-flipping-an-image) |
+| [1103-distribute-candies-to-people](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1103-distribute-candies-to-people) |
 | [1920-build-array-from-permutation](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1920-build-array-from-permutation) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2011-final-value-of-variable-after-performing-operations) |
