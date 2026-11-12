@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3668-restore-finishing-order](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3151-special-array-i](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3151-special-array-i) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/1486-xor-operation-in-an-array) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mrpraveengupta077-collab/DSA-PROBLEM/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Simulation
 |  |
